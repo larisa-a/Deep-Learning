@@ -8,3 +8,8 @@ You can see in this REPO:
 
 - Custom LSTM RNNS and evaluations for the models
 
+Which model has a lower loss? it appears the first model had a lower loss. 
+
+Which model tracks the actual values better over time? the Second Model
+
+Which window size works best for the model? 10.20
